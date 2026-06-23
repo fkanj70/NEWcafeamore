@@ -46,7 +46,7 @@ _Add screenshots here._
 ## Live Demo
 
 GitHub Pages:
-https://fkanj70.github.io/cafe-amore/
+https://fkanj70.github.io/NEWcafeamore/
 
 ## Disclaimer
 
