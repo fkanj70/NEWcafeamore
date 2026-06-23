@@ -1,5 +1,3 @@
-# NEWcafeamore
-
 # Café Amore Website Redesign ☕🇮🇹
 
 A luxury website redesign concept for Café Amore, an Italian café located in Orléans, Ottawa.
