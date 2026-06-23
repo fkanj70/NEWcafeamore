@@ -39,10 +39,6 @@ Although the business ultimately chose to continue using their existing website,
 - Showcase menu items and customer reviews
 - Deliver a modern mobile-friendly experience
 
-## Screenshots
-
-_Add screenshots here._
-
 ## Live Demo
 
 GitHub Pages:
